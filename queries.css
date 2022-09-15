@@ -1,0 +1,170 @@
+@media screen and (max-width: 375px) {
+  header {
+    max-width: 375px;
+    background-position: 8%;
+  }
+
+  .header-title {
+    font-size: 2em;
+    margin: 50px 15px 10px;
+  }
+
+  .header-text {
+    margin: 0;
+    padding: 8px 34px 20px;
+  }
+
+  .button {
+    display: flex;
+    margin: 20px;
+    padding: 15px 70px;
+  }
+
+  .main-section-title {
+    font-size: 1.7em;
+    margin: 0 50px;
+  }
+
+  .main-section-text {
+    margin: 20px 40px 60px;
+  }
+
+  .attribute {
+    display: block;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+  }
+
+  .attribute-image {
+    justify-content: center;
+    max-width: 320px;
+    margin: 0 0 15px 0;
+  }
+
+  .attribute-title {
+    display: block;
+    align-items: center;
+    font-size: 1.4em;
+    margin: 45px 50px 10px 50px;
+  }
+
+  .attribute-text {
+    text-align: center;
+    margin: 0 39px 0 39px;
+  }
+
+  .subsection-title {
+    font-size: 1.7em;
+    margin: 170px 50px 10px;
+  }
+
+  .subsection-text {
+    margin: 10px 30px 50px;
+  }
+
+  .subsection-image {
+    justify-content: center;
+    max-width: 350px;
+    margin-bottom: 80px;
+  }
+
+  .feature-title {
+    font-size: 1.7em;
+    margin: 0 75px 10px 75px;
+  }
+
+  .feature-title-text {
+    margin: 0 50px 20px 50px;
+  }
+
+  .grid {
+    display: grid;
+    max-width: 80rem;
+    padding: 2rem 1.8rem;
+    margin: 0 auto;
+    column-gap: 1.3rem;
+    row-gap: 1rem;
+  }
+
+  .grid--3-cols {
+    grid-template-columns: repeat(1, 1fr);
+  }
+
+  .feature-subtitle {
+    font-size: 1.4;
+  }
+
+  .logos {
+    margin: 50px 0;
+  }
+
+  .b-logos {
+    max-width: 230px;
+    padding: 25px 50px;
+  }
+
+  .dw-title {
+    font-size: 1.7;
+    margin: 0 26px 15px;
+  }
+
+  .dw-text {
+    margin: 0 35px 20px;
+  }
+
+  .last-button {
+    margin-bottom: 120px;
+  }
+
+  footer {
+    display: block;
+    justify-content: center;
+  }
+
+  .footer-logo {
+    margin: 20px 120px 20px;
+    padding: 50px 0 0;
+  }
+
+  .footer-link {
+    align-items: center;
+    margin: 0;
+    padding: 0;
+  }
+
+  .footer-link li {
+    padding: 15px;
+  }
+
+  .footer-social {
+    padding-bottom: 30px;
+    margin: 30px 25px 0;
+    justify-content: center;
+  }
+
+  button:active {
+    transition: all 0.7s ease-in-out;
+    transform: scale(1.1);
+  }
+
+  li:active {
+    transition: all 0.7s ease-in-out;
+    transform: scale(1.1);
+  }
+
+  .fb:active {
+    transition: all 0.7s ease-in-out;
+    transform: scale(1.2);
+  }
+
+  .ig:active {
+    transition: all 0.7s ease-in-out;
+    transform: scale(1.2);
+  }
+
+  .tw:active {
+    transition: all 0.7s ease-in-out;
+    transform: scale(1.2);
+  }
+}
