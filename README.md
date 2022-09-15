@@ -14,6 +14,7 @@ Your challenge is to build out this landing page and get it looking as close to 
 ## Links
 
 [Demo website](https://challange-clipboard-landing-page.netlify.app/)
+
 [Clipboard Landing Page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/clipboard-landing-page-5cc9bccd6c4c91111378ecb9)
 
 ## Contributing
